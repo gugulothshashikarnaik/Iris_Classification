@@ -33,7 +33,7 @@ To set up and run this project locally, follow these steps:
 ## Usage
 1. Run the classification script:
     ```bash
-    python iris_classification.py
+    jupyter notebook iris_classification.ipynb
     ```
 
 2. The script will output the classification accuracy, a classification report, and a confusion matrix visualization.
