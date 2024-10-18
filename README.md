@@ -68,14 +68,8 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 5. Open a Pull Request.
 
 ## License
-<<<<<<< 050b8a11a925379a644491778d3390b309f4c158
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Author
-[Your Name](https://github.com/yourusername)
-=======
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Author
 [GUGULOTH SHASHIKAR NAIK](https://github.com/gugulothshashikarnaik/Iris_Classification.git)
->>>>>>> Stage and commit all modified files
