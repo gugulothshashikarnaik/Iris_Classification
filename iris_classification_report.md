@@ -1,7 +1,7 @@
 ## IRIS_CLASSIFICATION
 
 Project Title: Classification of Iris Species
-Author: Shashi Roy
+Author: Guguloth Shashikar Niak
 Date: October 18, 2024
 
 ## Table of Contents
@@ -32,7 +32,7 @@ To visualize the results using confusion matrices and classification reports.
 Data was collected from the Iris dataset, which is readily available in the scikit-learn library. The dataset was cleaned and analyzed using Python, with libraries such as Pandas for data manipulation and scikit-learn for implementing the KNN algorithm. Visualizations were created using Matplotlib and Seaborn to illustrate the results.
 
 ## Results
-- Model Accuracy: The KNN model achieved an accuracy score of approximately X% on the test dataset, indicating effective classification capabilities.
+- Model Accuracy: The KNN model achieved an accuracy score of approximately 1.00% on the test dataset, indicating effective classification capabilities.
 - Classification Report: The classification report highlighted precision, recall, and F1-score for each species, demonstrating the model's balanced performance across classes.
 - Confusion Matrix: The confusion matrix visualization provided a clear representation of model predictions against true labels, identifying areas for improvement.
 
@@ -47,11 +47,10 @@ Future work should explore:
 - The application of more advanced classification algorithms (e.g., Random Forest, Support Vector Machines) for comparison.
 - Hyperparameter tuning of the KNN model to optimize performance.
 - Additional feature engineering to improve predictive accuracy.
-References
+## References
+- Anderson, E. (1935). The Irises of the United States.
+  scikit-learn documentation. (n.d.). Retrieved from https://scikit-    learn.org/stable/.
 
-Anderson, E. (1935). The Irises of the United States.
-scikit-learn documentation. (n.d.). Retrieved from https://scikit-learn.org/stable/.
-Appendices
-
-Appendix A: Raw Dataset (iris.csv)
-Appendix B: Additional Visualizations (e.g., pair plots)
+## Appendices
+- Appendix A: Raw Dataset (iris.csv)
+- Appendix B: Additional Visualizations (e.g., pair plots)
