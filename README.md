@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## Author
-[GUGULOTH SHASHIKAR NAIK](https://github.com/gugulothshashikarnaik/Iris_Classification.git)
+[GUGULOTH SHASHIKAR  NAIK(https://github.com/gugulothshashikarnaik/Iris_Classification.git)
