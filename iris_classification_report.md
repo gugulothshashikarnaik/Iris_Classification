@@ -17,7 +17,7 @@ Date: October 18, 2024
 8.References
 9.Appendices
 
-##Executive Summary
+## Executive Summary
 This project analyzes the Iris dataset to classify iris species based on their physical measurements. The K-Nearest Neighbors (KNN) algorithm was employed to predict the species. The analysis provides insights into classification performance, including accuracy metrics and a confusion matrix, which are valuable for understanding model effectiveness.
 
 ## Introduction
