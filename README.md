@@ -72,10 +72,5 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name](https://github.com/yourusername)
-=======
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
-
-## Author
 [GUGULOTH SHASHIKAR NAIK](https://github.com/gugulothshashikarnaik/Iris_Classification.git)
 >>>>>>> Stage and commit all modified files
