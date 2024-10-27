@@ -4,18 +4,18 @@ Author: Shashi Roy
 Date: October 18, 2024
 
 ## Table of Contents
-1.Executive Summary
-2.Introduction
+1. Executive Summary
+2. Introduction
  2.1. Background
  2.2. Objectives
  2.3. Scope
-3.Methodology
-4.Results
-5.Discussion
-6.Conclusion
-7.Recommendations
-8.References
-9.Appendices
+3. Methodology
+4. Results
+5. Discussion
+6. Conclusion
+7. Recommendations
+8. References
+9. Appendices
 
 ## Executive Summary
 This project analyzes the Iris dataset to classify iris species based on their physical measurements. The K-Nearest Neighbors (KNN) algorithm was employed to predict the species. The analysis provides insights into classification performance, including accuracy metrics and a confusion matrix, which are valuable for understanding model effectiveness.
